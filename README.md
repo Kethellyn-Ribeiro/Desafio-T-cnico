@@ -2,7 +2,7 @@
 
 Este repositório contém soluções para três desafios técnicos abordados em JavaScript. Abaixo está a descrição de cada desafio, juntamente com os detalhes sobre a lógica implementada.
 
-- Desafio 1: Conversão de Números para Extenso (SOAP)
+# - Desafio 1: Conversão de Números para Extenso (SOAP)
   
 A função utiliza um web service SOAP para converter números em texto por extenso.
 
@@ -30,7 +30,7 @@ XMLHttpRequest: Permite controle detalhado sobre a estrutura da requisição.
 
 Callback: O onload é usado para lidar com o processamento assíncrono.
 
-- Desafio 2: Manipulação de Matrizes
+# - Desafio 2: Manipulação de Matrizes
   
 A função implementa operações básicas em matrizes bidimensionais de números inteiros, como somar linhas, somar colunas e calcular valores das diagonais.
 
@@ -62,7 +62,7 @@ Eficiência: A matriz é processada em um único loop aninhado.
 
 Generalização: Funciona tanto para matrizes quadradas quanto não quadradas.
 
-- Desafio 3: Operações com Datas
+# - Desafio 3: Operações com Datas
 
 A função realiza várias operações relacionadas a datas e horários sem o uso de bibliotecas externas.
 
